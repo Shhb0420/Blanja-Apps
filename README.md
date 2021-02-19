@@ -38,7 +38,7 @@
 ## Installation for Development
 
 1. Buka terminal / command prompt
-2. `git clone https://github.com/Shhb0420/BlanjaApps-using-react`
+2. `git clone https://github.com/Shhb0420/Blanja-Apps.git`
 3. Buat folder di direktori dan ketik `npm install` untuk menginstall dependencies
 4. Buat file **_.env_** di direktori dengan konten berikut :
 
@@ -62,9 +62,9 @@ REACT_APP_API_URL = "http://localhost:2005"
 ## Screenshoots
 
 <div align="center">
-    <img width="100%" src="./src/assets/img/screenshoot-1.png">
-    <img width="100%" src="./src/assets/img/screenshoot-2.png">
-    <img width="100%" src="./src/assets/img/screenshoot-3.png">
+    <img width="100%" src="./src/assets/img/screenshot-1.png">
+    <img width="100%" src="./src/assets/img/screenshot-2.png">
+    <img width="100%" src="./src/assets/img/screenshot-3.png">
 </div>
 
 ## Demo Blanja Web
