@@ -62,11 +62,17 @@ REACT_APP_API_URL = "http://localhost:2005"
 ## Screenshoots
 
 <div align="center">
-- [Login]()
+    <div align="left">
+      - Login
+    </div>
     <img width="100%" src="./src/assets/img/screenshot-1.png">
-- [Home]()
+      <div align="left">
+      - Home
+      </div>
     <img width="100%" src="./src/assets/img/screenshot-2.png">
-- [Profile]()
+      <div align="left">
+       - Profile
+      </div>
     <img width="100%" src="./src/assets/img/screenshot-3.png">
 </div>
 
